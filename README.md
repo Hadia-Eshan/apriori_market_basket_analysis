@@ -1,6 +1,3 @@
-# apriori_market_basket_analysis
-The task is to implement a system finding frequent itemsets (aka market-basket analysis)
-
 # 🧠 Market-Basket Analysis – Algorithms for Massive Data
 
 This project implements a scalable market-basket analysis solution using the **Amazon Books Reviews** dataset. It was developed as part of the course **Algorithms for Massive Data** in the **Master in Data Science for Economics** at Università degli Studi di Milano.
