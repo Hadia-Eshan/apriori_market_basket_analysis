@@ -1,5 +1,8 @@
 # 🧠 Market-Basket Analysis – Algorithms for Massive Data
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Hadia-eshan/algorithm-massive-data-market-basket-analysis/blob/main/apriori_market_basket_analysis.ipynb)
+
 This project implements a scalable market-basket analysis solution using the **Amazon Books Reviews** dataset. It was developed as part of the course **Algorithms for Massive Data** in the **Master in Data Science for Economics** at Università degli Studi di Milano.
 
 ---
